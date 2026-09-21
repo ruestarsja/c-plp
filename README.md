@@ -56,6 +56,10 @@ comment */
 
 ### 1.2 [TO BE WRITTEN]
 
+## SOURCES
+
 [1] https://en.wikipedia.org/wiki/C_(programming_language)
+
 [2] https://learn.microsoft.com/en-us/windows/wsl/install
+
 [3] https://www.w3schools.com/c/c_comments.php
