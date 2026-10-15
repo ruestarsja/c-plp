@@ -54,7 +54,9 @@ a multi-line
 comment */
 ```
 
-### 1.2 [TO BE WRITTEN]
+### 1.2 Data Types and Typing
+
+[TO BE WRITTEN]
 
 ## SOURCES
 
@@ -63,3 +65,25 @@ comment */
 [2] https://learn.microsoft.com/en-us/windows/wsl/install
 
 [3] https://www.w3schools.com/c/c_comments.php
+
+[4] https://www.w3schools.com/c/c_variables_names.php
+
+[5] https://www.w3schools.com/c/c_data_types_numbers.php
+
+[6] https://www.w3schools.com/c/c_data_types_extended.php
+
+[7] https://www.w3schools.com/c/c_data_types_characters.php
+
+[8] https://www.w3schools.com/c/c_strings.php
+
+[9] https://www.w3schools.com/c/c_data_types_numbers.php
+
+[10] https://www.w3schools.com/c/c_booleans.php
+
+[11] https://www.w3schools.com/c/c_arrays.php
+
+[12] https://stackoverflow.com/a/10828333
+
+[13] https://www.w3schools.com/c/c_pointers.php
+
+[14] https://stackoverflow.com/questions/6118539/why-are-there-no-hashtables-in-the-c-standard-library
